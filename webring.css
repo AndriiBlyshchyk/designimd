@@ -7,7 +7,7 @@
 	transition: all 0.1s;
 }
 #id460webring {
-	color: #f1357a;
+	color: rgb(92, 92, 252);
 	background-color: #fff;
 
 	width: max-content;
@@ -15,7 +15,7 @@
 	padding-bottom: 1.33em;
 
 	border-radius: 1em;
-	border: 2px solid #f1357a;
+	border: 2px solid rgb(92, 92, 252);
 	box-shadow: 0 0 16px #0006;
 
 	position: fixed; 
@@ -48,7 +48,7 @@
 
 #id460webring:has(a:first-of-type:hover),
 #id460webring:has(a:last-of-type:hover){
-	background-color: #f1357a;
+	background-color: rgb(92, 92, 252);
 	color: #FFF6;
 	border: 2px solid #FFF;
 }
