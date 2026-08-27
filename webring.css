@@ -25,7 +25,7 @@
 #id460webring a {
 	color: inherit;
 	padding: 0.5em;
-	
+	text-decoration-style: wavy;
   text-decoration-skip-ink: none;
 	text-underline-offset: 0.33em;
 }
@@ -55,15 +55,15 @@
 #id460webring a:first-of-type:hover,
 #id460webring a:last-of-type:hover{
 	color: #FFF;
-	text-decoration: underline;
 	
+	text-decoration-style: wavy;
 	opacity: 1;
 }
 
 #id460webring a:first-of-type:visited,
 #id460webring a:last-of-type:visited,
 .visited{
-	text-decoration: line-through;
+	
 	opacity: 0.5;
 }
 
